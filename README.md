@@ -1,2 +1,3 @@
-# calculadora
-Essa projeto visa uma calculadora usando meus conhecimentos
+# Calculadora
+
+Essa projeto visa criar uma calculadora usando meus conhecimentos em HTML, CSS e JavaScript
