@@ -1,11 +1,15 @@
 # Calculadora
 
-Clique [aqui](https://calculadora-chi-three.vercel.app/) para ver o projeto.
+Clique <a href="https://calculadora-chi-three.vercel.app/" target="_blank">aqui</a> para ver o projeto.
 
-> Qual o objetivo do projeto?
+## Qual o objetivo do projeto?
 
-Essa projeto visa criar uma calculadora usando meus conhecimentos em HTML, CSS e JavaScript
+Essa projeto tem como objetivo criar uma calculadora.
 
-> Como usar?
+## Como usar?
 
-> Tecnologias utilizadas?
+Essa aplicação funciona como uma calculadora comum, nela você pode realizar as operações: soma, divisão, multiplicação e subtração.
+
+## Tecnologias utilizadas?
+
+Para o desenvolvimento dessa aplicação utilizei meus conhecimentos em HTML, CSS e JavaScript.
