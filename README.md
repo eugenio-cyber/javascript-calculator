@@ -1,6 +1,6 @@
 # Calculadora
 
-Clique <a href="https://calculadora-chi-three.vercel.app/" target="_blank">aqui</a> para ver o projeto.
+Clique [aqui](https://calculadora-chi-three.vercel.app/) para ver o projeto.
 
 ## Qual o objetivo do projeto?
 
