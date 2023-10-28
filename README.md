@@ -1,8 +1,7 @@
 <h3 align="center">
  Calculadora
 </h3>
-  
-<br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-green?style=for-the-badge"/>
 </p>
